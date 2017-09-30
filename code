@@ -1,0 +1,782 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Threading.Tasks;
+
+namespace test
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Monkey Michael vs You");
+
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
+
+            Console.Write("How old are you?");
+            int input = Convert.ToInt32(Console.ReadLine());
+
+            if (input <= 99)
+            {
+                int svar = input;
+                int x = svar * 5;
+                int y = svar * 9;
+
+                int fuck;
+                fuck = x - (svar / y);
+
+                string a = "Monkey Michael is ";
+                string b = "You are ";
+                string c = " years old. ";
+
+                Console.WriteLine(" ");
+
+                Console.Write(b); Console.Write(svar); Console.WriteLine(c);
+                Console.WriteLine(" ");
+
+                Console.Write(a); Console.Write(fuck); Console.Write(c);
+                Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
+            }
+            else
+            {
+
+                Console.WriteLine(" ");
+                Console.Write("Fucking Old Piece of SHIT! I will egg you!");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromSeconds(1).TotalMilliseconds);
+
+                #region egg
+
+		Console.WriteLine(" ");
+
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+                Console.WriteLine(" egg");
+                System.Threading.Thread.Sleep(
+                (int)System.TimeSpan.FromMilliseconds(100).TotalMilliseconds);
+		
+		#endregion
+
+            }
+        }
+    }
+}
+
